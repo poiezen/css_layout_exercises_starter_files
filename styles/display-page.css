@@ -15,6 +15,34 @@ div	{
 	border: 1px solid black;
 }
 
+.top	{
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+}
+
+.bottom	{
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+}
+
 .green {
-	background-color: 
+	background-color:  #1e8449;
+}
+
+.blue	{
+	background-color:  #2e86c1;
+}
+
+.grey	{
+	background-color: #616a6b;
+}
+
+.black	{
+	background-color: black;
+}
+
+.orange	{
+	background-color: #f5b041;
 }
