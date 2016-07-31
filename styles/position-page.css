@@ -25,16 +25,8 @@ div	{
 	position: relative;
 }
 
-.bg	{
-	min-height: 100%;
-	height: auto;
-	position: fixed;
-	top: 0;
-	left: 0;
+body {
+	background: url(../images/outerspace_landscape.jpeg) no-repeat;
+	background-size: cover;
 }
-
-@media screen and (max-width: 1024px)
-	.bg	{
-		left: 50%;
-		margin-left: -512px;
-	}
+}
