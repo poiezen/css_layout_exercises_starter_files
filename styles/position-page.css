@@ -1,7 +1,18 @@
+
+
 nav	{
 	padding-left: 60px;
 	padding-right: 60px;
 	background-color: grey;
-	position: fixed;
+	position: relative;
 	
+
+}
+
+ul	{
+	display: inline-block;
+}
+
+li	{
+	display: inline-block;
 }
