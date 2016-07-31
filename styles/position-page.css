@@ -16,3 +16,13 @@ ul	{
 li	{
 	display: inline-block;
 }
+
+div	{
+	height: 300px;
+	width: 600px;
+	border: 10px green dotted;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+
+}
