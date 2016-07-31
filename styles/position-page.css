@@ -15,6 +15,11 @@ li	{
 	display: inline-block;
 }
 
+nav li::after {
+  content: "|";
+  margin-left: 5px;
+}
+
 div	{
 	height: 300px;
 	width: 600px;
