@@ -35,4 +35,14 @@ body {
 	background: url(../images/outerspace_landscape.jpeg) no-repeat;
 	background-size: cover;
 }
+
+.spacecat {
+	display: absolute;
+	top: -90px;
+	left: -90px;
+}
+
+.spacedog {
+	display: absolute;
+
 }
